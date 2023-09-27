@@ -8,4 +8,5 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'Monia Application!!! from my  first branch';
   test = "test 123";
+  changesFromLocal = "some other changes";
 }
