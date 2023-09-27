@@ -10,4 +10,5 @@ export class AppComponent {
   test = "test 123";
   changesFromLocal = "some other changes";
   changesFromOrigin = "some changes";
+  message = "New message";
 }
